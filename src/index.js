@@ -30,12 +30,6 @@ export default function App() {
         />
 
       </SafeAreaView>
-
-      {/* <View style={styles.container}>
-        {projects.map(project => (
-          <Text style={styles.project} key={project.id}>{project.title}</Text>
-        ))}
-      </View> */}
     </>
   );
 }
